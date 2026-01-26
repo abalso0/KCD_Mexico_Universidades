@@ -835,9 +835,9 @@ Esta sección rastrea el progreso de creación de archivos para cada laboratorio
 
 #### Lab 02: Minikube Setup
 
-- [ ] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/README.md`
-- [ ] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/initial/`
-- [ ] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/solution/`
+- [x] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/README.md`
+- [x] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/initial/`
+- [x] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/solution/`
 
 #### Lab 03: Cluster Exploration
 
