@@ -2,6 +2,3 @@ node_modules/
 package*.json
 .claude/
 CLAUDE.md
-labs/nivel-2-uso-basico
-labs/nivel-3-uso-intermedio
-labs/nivel-4-operacion

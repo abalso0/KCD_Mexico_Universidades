@@ -830,58 +830,55 @@ Esta sección rastrea el progreso de creación de archivos para cada laboratorio
 #### Lab 01: Docker Basics
 
 - [x] `labs/nivel-1-fundamentos/modulo-01-cloud-contenedores/lab-01-docker-basics/README.md`
-- [x] `labs/nivel-1-fundamentos/modulo-01-cloud-contenedores/lab-01-docker-basics/initial/`
 - [x] `labs/nivel-1-fundamentos/modulo-01-cloud-contenedores/lab-01-docker-basics/solution/`
 
 #### Lab 02: Minikube Setup
 
 - [x] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/README.md`
-- [x] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/initial/`
 - [x] `labs/nivel-1-fundamentos/modulo-02-intro-kubernetes/lab-02-minikube-setup/solution/`
 
 #### Lab 03: Cluster Exploration
 
 - [x] `labs/nivel-1-fundamentos/modulo-03-arquitectura/lab-03-cluster-exploration/README.md`
-- [x] `labs/nivel-1-fundamentos/modulo-03-arquitectura/lab-03-cluster-exploration/initial/`
 - [x] `labs/nivel-1-fundamentos/modulo-03-arquitectura/lab-03-cluster-exploration/solution/`
 
 ### Nivel 2: Uso Básico
 
 #### Lab 04: Pods y Deployments
 
-- [ ] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-04-pods-deployments/README.md`
-- [ ] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-04-pods-deployments/initial/`
-- [ ] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-04-pods-deployments/solution/`
+- [x] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-04-pods-deployments/README.md`
+- [x] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-04-pods-deployments/initial/`
+- [x] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-04-pods-deployments/solution/`
 
 #### Lab 05: Scaling
 
-- [ ] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-05-scaling/README.md`
-- [ ] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-05-scaling/initial/`
-- [ ] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-05-scaling/solution/`
+- [x] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-05-scaling/README.md`
+- [x] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-05-scaling/initial/`
+- [x] `labs/nivel-2-uso-basico/modulo-04-objetos-fundamentales/lab-05-scaling/solution/`
 
 #### Lab 06: YAML Manifests
 
-- [ ] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-06-yaml-manifests/README.md`
-- [ ] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-06-yaml-manifests/initial/`
-- [ ] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-06-yaml-manifests/solution/`
+- [x] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-06-yaml-manifests/README.md`
+- [x] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-06-yaml-manifests/initial/`
+- [x] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-06-yaml-manifests/solution/`
 
 #### Lab 07: Resource Updates
 
-- [ ] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-07-resource-updates/README.md`
-- [ ] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-07-resource-updates/initial/`
-- [ ] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-07-resource-updates/solution/`
+- [x] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-07-resource-updates/README.md`
+- [x] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-07-resource-updates/initial/`
+- [x] `labs/nivel-2-uso-basico/modulo-05-kubectl-yaml/lab-07-resource-updates/solution/`
 
 #### Lab 08: Services
 
-- [ ] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-08-services/README.md`
-- [ ] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-08-services/initial/`
-- [ ] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-08-services/solution/`
+- [x] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-08-services/README.md`
+- [x] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-08-services/initial/`
+- [x] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-08-services/solution/`
 
 #### Lab 09: Ingress
 
-- [ ] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-09-ingress/README.md`
-- [ ] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-09-ingress/initial/`
-- [ ] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-09-ingress/solution/`
+- [x] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-09-ingress/README.md`
+- [x] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-09-ingress/initial/`
+- [x] `labs/nivel-2-uso-basico/modulo-06-servicios-networking/lab-09-ingress/solution/`
 
 ### Nivel 3: Uso Intermedio
 
